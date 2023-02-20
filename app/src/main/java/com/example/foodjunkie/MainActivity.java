@@ -19,6 +19,7 @@ private EditText ePassword;
 private Button eLogin;
 private TextView eAttemptsInfo;
 boolean isValid = false;
+
 private int counter = 5;
 
 private TextView eRegister;
